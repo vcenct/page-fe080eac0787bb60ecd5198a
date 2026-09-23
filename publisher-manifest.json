@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "41f95e07910a0d218c971f11",
+  "owner": "vcenct",
+  "repo": "page-fe080eac0787bb60ecd5198a",
+  "title": "圈钱机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fe080eac0787bb60ecd5198a",
+      "a": "圈钱机场",
+      "b": "2027最新官网",
+      "entity": "圈钱机场",
+      "brand": "圈钱机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "38d2ff50a91992eb209fbdbb9c6d25d94c58d6e06de8f876637ff95bc4502671",
+      "content": {
+        "primary_entity": "圈钱机场",
+        "keyword1": "圈钱机场",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对照设备与用量，选一款合适的套餐开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即启程",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档选择，月付与年付灵活切换。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB 流量，支持 5 台设备，并含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量，支持 20 台设备，含 VIP 专属高带宽节点与专属客户经理服务。按年付可节省更多，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，逐项对照。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月或按年订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，多设备共享同一订阅。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_3": "年付方案价格更低，旗舰版 ¥350/年，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_3": "按周期计费",
+          "AI_GUIDE_INTRO": "三步完成从选服务到配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "圈钱机场提供基础版、旗舰版与团队版三档加速服务，覆盖 100GB 至 1000GB 月流量，支持 3 至 20 台设备同时在线，可按月或按年订阅，适用于流媒体、游戏加速与多设备共享场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，设备灵活",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "三档套餐按流量和设备数区分，年付更省。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量和设备数量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认设备数量、流媒体或游戏加速需求是否在套餐权益内。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅链接，即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "圈钱机场套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 适合单人日常浏览，旗舰版 300GB 适合影音与游戏，团队版 1000GB 适合多设备或小团队。按年付更省，可选 150 元、350 元、850 元年付方案。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。超出设备数时可升级套餐，或按客户端文档配置分流规则。",
+          "AI_FAQ_ANSWER_3": "在客户端订阅设置中粘贴订阅链接，保存后更新即可拉取节点。Clash 类客户端可从配置页面导入，Shadowrocket 等可从订阅添加。",
+          "AI_FAQ_ANSWER_4": "节点池分为普通线路、IPLC 专线和 VIP 专属高带宽节点。旗舰版可用 IPLC 专线，团队版可用 VIP 专属节点，基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_5": "支持按月或按年付费，年付相当于十个月价格。套餐差异主要在流量、设备数和节点类型，升级后权益即时生效。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和价格怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "普通线路、IPLC 专线和 VIP 节点有什么区别？",
+          "AI_FAQ_QUESTION_5": "按月付和按年付有什么差别？",
+          "AI_FAQ_TITLE": "套餐与使用解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sc0n8snes2b.com",
+    "host": "xn--9kqy4sc0n8snes2b.com"
+  },
+  "file_hashes": {
+    "index.html": "7dd3d61b10b148b79e861deb6553140e7127f988258e7b58978ac1da02a30ea5",
+    "sitemap.xml": "9c32c8a3394af21a6efd2f57e23b2c6b5bfa9a2a6c6f4290529ab48541de717c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5101a992a94db719ee82e005c270d9f77864609d2e6c6fb7c8c69863281294b5",
+    "robots.txt": "f6d7502298c187ceaf8d7ae1e2d49bdeeb48c66eca1e3235aa9f57f901ebbec8",
+    "2b9dc89d8c5ba0a6ba10dfda9a3c002e.txt": "b0e7793bab0bd3939584742ccf15c11a0613cb48216e0b38f1adf7ca5cc25272"
+  },
+  "revision": "2f52a516dc76683c773ec0647160725f705033cead1a68afa55d0e44caea2553"
+}
